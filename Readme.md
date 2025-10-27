@@ -55,7 +55,6 @@ Aspiring Quality Assurance professional with 8 months of hands-on experience in 
 - **Performance Testing:** Jmeter, K6
 - **UI/UX:** Figma
 - **AI:** AI Agents, GenAI
-- **RPA:** Uipath, Automation Anywhere
 - **Soft Skills:** Communication, Problem Solving
 
 ---
