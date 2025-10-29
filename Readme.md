@@ -3,7 +3,7 @@
  Bengaluru, India  
  adityars1673@gmail.com  
  +91 9110245683  
- [LinkedIn](#)  
+ 
 
 ---
 
@@ -51,8 +51,8 @@ Aspiring Quality Assurance professional with 8 months of hands-on experience in 
 - **Manual Testing:** Test Cases, Scenarios, SDLC, STLC, Agile, Defect Life Cycle  
 - **Automation Testing:** Selenium (Java), Playwright (JavaScript), Appium (Java)  
 - **API Testing:** Postman, REST Assured  
-- **Programming:** MySQL, Core Java, Python, MongoDB
-- **Performance Testing:** Jmeter, K6
+- **Programming:** MySQL, Core Java.
+- **Performance Testing:** Jmeter.
 - **UI/UX:** Figma
 - **AI:** AI Agents, GenAI
 - **Soft Skills:** Communication, Problem Solving
