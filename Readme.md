@@ -41,8 +41,7 @@ Aspiring Quality Assurance professional with 8 months of hands-on experience in 
 ##  Certifications
 
 - **Software Tester** – QSpiders, Bengaluru  
-- **Full Stack Development** – Kodnest Technologies  
-- **DevOps** – Udemy  
+
 
 ---
 
